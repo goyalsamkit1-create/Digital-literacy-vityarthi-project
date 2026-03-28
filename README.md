@@ -4,9 +4,9 @@ vityarthi project
 vityarthi project 
 # Digital Literacy Project
 
-Name: Rajat Gaur  
-Reg No: 25MIP10057  
-Branch: M.Tech INT(Computational and data science)  
+Name: Samkit Goyal
+Reg No: 25BAI10214
+Branch: btech CSE(AI ML) 
 Year: 1st Year  
 
 ## Project Overview
@@ -30,7 +30,7 @@ Wrote professional emails and created social media checklist.
 Studied phishing attack and created prevention guide.
 
 ## Links
-Google Form: https://docs.google.com/forms/d/e/1FAIpQLScee4BEYy5iFP1VqZphol14MyhGixn3SaHIQFteDS55a-78jw/viewform?usp=publish-editor
+Google Form: https://docs.google.com/forms/d/e/1FAIpQLSc6btqnnS3Ruz6-m8EWITt_MhBblAO5Z3w0OwrMYJnnCvYx3w/viewform?usp=publish-editor
 
 ## Final Thought
 This project helped me understand how digital presence is important in today's world.
